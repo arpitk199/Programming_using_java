@@ -1,27 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47d9f7-9909-4adf-9278-f55b5d36c25a" name="Changes" comment="" />
+    <list default="true" id="9e47d9f7-9909-4adf-9278-f55b5d36c25a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExactChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Food_Corner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeometricSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metro_Bank_loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quadratic_equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/display_the_next_date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/do_while_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested_loop_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum_of_two_given_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zip_zap_zoom.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2l5XsW76RXmlfZGmFaaNV1LIKTD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExactChange.executor": "Run",
+    "Application.Food_Corner.executor": "Run",
+    "Application.For_loop.executor": "Run",
+    "Application.GeometricSequence.executor": "Run",
+    "Application.Metro_Bank_loan.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.Quadratic_equation.executor": "Run",
+    "Application.display_the_next_date.executor": "Run",
+    "Application.do_while_loop.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.nested_loop_pattern.executor": "Run",
+    "Application.printOddNumber.executor": "Run",
+    "Application.sum_of_two_given_numbers.executor": "Run",
+    "Application.three_positive_integer_values.executor": "Run",
+    "Application.zip_zap_zoom.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.PalindromeChecker">
+    <configuration name="ExactChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExactChange" />
+      <module name="java_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Metro_Bank_loan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metro_Bank_loan" />
+      <module name="java_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeChecker" />
+      <module name="java_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="display_the_next_date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="display_the_next_date" />
+      <module name="java_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zip_zap_zoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zip_zap_zoom" />
+      <module name="java_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PalindromeChecker" />
+        <item itemvalue="Application.zip_zap_zoom" />
+        <item itemvalue="Application.display_the_next_date" />
+        <item itemvalue="Application.ExactChange" />
+        <item itemvalue="Application.Metro_Bank_loan" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +133,46 @@
       <updated>1724471118859</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nested_loop_pattern.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nested_loop_pattern.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
