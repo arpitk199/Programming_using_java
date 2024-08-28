@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e47d9f7-9909-4adf-9278-f55b5d36c25a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExactChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Food_Corner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometricSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metro_Bank_loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quadratic_equation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/display_the_next_date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/do_while_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested_loop_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sum_of_two_given_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zip_zap_zoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armstrong_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/count_rabbits_and_chickens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/number_is_a_seed_of_another_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_assignment_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum_of_its_digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arpitk199"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/arpitk199/Programming_using_java.git",
+    "accountId": "e30e2dc1-3b82-4b40-822a-2403ac887e20"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -55,59 +54,66 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Armstrong_number.executor": "Run",
     "Application.ExactChange.executor": "Run",
     "Application.Food_Corner.executor": "Run",
     "Application.For_loop.executor": "Run",
     "Application.GeometricSequence.executor": "Run",
+    "Application.LCM.executor": "Debug",
+    "Application.LuckyNumberChecker.executor": "Run",
     "Application.Metro_Bank_loan.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
     "Application.Quadratic_equation.executor": "Run",
+    "Application.count_rabbits_and_chickens.executor": "Debug",
     "Application.display_the_next_date.executor": "Run",
     "Application.do_while_loop.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.nested_loop_pattern.executor": "Run",
+    "Application.number_is_a_seed_of_another_number.executor": "Run",
+    "Application.pattern_assignment_8.executor": "Run",
     "Application.printOddNumber.executor": "Run",
+    "Application.sum_of_its_digits.executor": "Debug",
     "Application.sum_of_two_given_numbers.executor": "Run",
     "Application.three_positive_integer_values.executor": "Run",
     "Application.zip_zap_zoom.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromeChecker">
-    <configuration name="ExactChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExactChange" />
+  <component name="RunManager" selected="Application.pattern_assignment_8">
+    <configuration name="Armstrong_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Armstrong_number" />
       <module name="java_programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metro_Bank_loan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Metro_Bank_loan" />
+    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCM" />
       <module name="java_programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeChecker" />
+    <configuration name="LuckyNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuckyNumberChecker" />
       <module name="java_programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="display_the_next_date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="display_the_next_date" />
+    <configuration name="number_is_a_seed_of_another_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="number_is_a_seed_of_another_number" />
       <module name="java_programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zip_zap_zoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zip_zap_zoom" />
+    <configuration name="pattern_assignment_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_assignment_8" />
       <module name="java_programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalindromeChecker" />
-        <item itemvalue="Application.zip_zap_zoom" />
-        <item itemvalue="Application.display_the_next_date" />
-        <item itemvalue="Application.ExactChange" />
-        <item itemvalue="Application.Metro_Bank_loan" />
+        <item itemvalue="Application.pattern_assignment_8" />
+        <item itemvalue="Application.LCM" />
+        <item itemvalue="Application.LuckyNumberChecker" />
+        <item itemvalue="Application.Armstrong_number" />
+        <item itemvalue="Application.number_is_a_seed_of_another_number" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +177,36 @@
           <url>file://$PROJECT_DIR$/src/nested_loop_pattern.java</url>
           <line>10</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/count_rabbits_and_chickens.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/count_rabbits_and_chickens.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sum_of_its_digits.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sum_of_its_digits.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LCM.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LCM.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
